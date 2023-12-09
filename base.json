@@ -259,7 +259,7 @@
         "PRIMARY_500": "#{{ text }}",
         "PRIMARY_600": "#{{ base }}",
         "PRIMARY_630": "#{{ base }}",
-        "PRIMARY_645": "45475a",
+        "PRIMARY_645": "{{ surface1 }}",
         "PRIMARY_660": "#{{ crust }}",
         "PRIMARY_700": "#{{ crust }}",
         "PRIMARY_800": "#{{ mantle }}",
