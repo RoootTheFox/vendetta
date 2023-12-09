@@ -1,0 +1,309 @@
+{
+    "description": "Soothing pastel theme for the high-spirited!",
+    "name": "Catppuccin wtf {{ titlecase flavor }}",
+    "spec": 2,
+    "authors": [
+        {
+            "name": "Catppuccin"
+        }
+    ],
+    "plus": {
+        "icons": {
+            "StatusDND": "{{ red }}",
+            "StatusIdle": "{{ yellow }}",
+            "StatusMobileOnline": "{{ green }}",
+            "StatusOffline": "{{ overlay2 }}",
+            "StatusOnline": "{{ green }}",
+            "StatusStreaming": "{{ mauve }}",
+            "ic_new_pins": "{{ red }}"
+        },
+        "version": "0"
+    },
+    "semanticColors": {
+        "BACKGROUND_ACCENT": [
+            "{{ red }}",
+            "{{ yellow }}"
+        ],
+        "BACKGROUND_FLOATING": [
+            "{{ mantle }}",
+            "{{ mantle }}"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "{{ surface0 }}",
+            "{{ surface0 }}"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "{{ overlay0 }}",
+            "{{ overlay0 }}"
+        ],
+        "BACKGROUND_MESSAGE_AUTOMOD": [
+            "#f23f430d",
+            "#f23f430d"
+        ],
+        "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
+            "#f23f431a",
+            "#f23f431a"
+        ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [
+            "#f7949414",
+            "#f7949414"
+        ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+            "{{ overlay2 }}",
+            "{{ overlay2 }}"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "{{ overlay2 }}",
+            "{{ overlay2 }}"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "{{ base }}",
+            "{{ base }}"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "{{ mantle }}",
+            "{{ mantle }}"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "{{ surface0 }}",
+            "{{ surface0 }}"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "{{ mantle }}",
+            "{{ mantle }}"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "{{ crust }}",
+            "{{ crust }}"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "{{ surface0 }}",
+            "{{ surface0 }}"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "{{ base }}",
+            "{{ base }}"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "{{ mantle }}",
+            "{{ mantle }}"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "{{ mantle }}",
+            "{{ mantle }}"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "{{ crust }}",
+            "{{ crust }}"
+        ],
+        "CARD_PRIMARY_BG": [
+            "{{ base }}"
+        ],
+        "CHANNELS_DEFAULT": [
+            "{{ overlay2 }}",
+            "{{ overlay2 }}"
+        ],
+        "CHANNEL_ICON": [
+            "{{ mauve }}",
+            "{{ yellow }}"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "{{ overlay2 }}"
+        ],
+        "CHAT_BACKGROUND": [
+            "{{ base }}",
+            "{{ base }}"
+        ],
+        "HEADER_PRIMARY": [
+            "{{ text }}",
+            "{{ text }}"
+        ],
+        "HEADER_SECONDARY": [
+            "{{ subtext1 }}",
+            "{{ subtext1 }}"
+        ],
+        "HOME_BACKGROUND": [
+            "#2e2828",
+            "{{ mantle }}"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "{{ maroon }}",
+            "{{ text }}"
+        ],
+        "INTERACTIVE_HOVER": [
+            "{{ red }}",
+            "{{ red }}{{! idk, this was latte overlay2 }}"
+        ],
+        "INTERACTIVE_MUTED": [
+            "{{ surface2 }}",
+            "{{ surface2 }}"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "{{ overlay2 }}",
+            "{{ overlay2 }}"
+        ],
+        "MENTION_BACKGROUND": [
+            "{{ flamingo }}",
+            "{{ surface1 }}"
+        ],
+        "MENTION_FOREGROUND": [
+            "{{ maroon }}"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "{{ crust }}",
+            "{{ mantle }}"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "{{ red }}",
+            "{{ yellow }}"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "{{ red }}",
+            "{{ yellow }}"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "{{ red }}",
+            "{{ yellow }}"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "{{ red }}",
+            "{{ yellow }}"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "{{ overlay2 }}",
+            "{{ overlay2 }}"
+        ],
+        "TEXT_DANGER": [
+            "{{ red }}",
+            "{{ red }}"
+        ],
+        "TEXT_LINK": [
+            "{{ green }}",
+            "{{ lavender }}"
+        ],
+        "TEXT_MUTED": [
+            "{{ subtext0 }}",
+            "{{ subtext0 }}"
+        ],
+        "TEXT_NORMAL": [
+            "{{ text }}",
+            "{{ text }}"
+        ],
+        "TEXT_PRIMARY": [
+            "{{ text }}"
+        ],
+        "TEXT_SECONDARY": [
+            "{{ subtext0 }}"
+        ]
+    },
+    "rawColors": {
+        "BLACK_500": "{{ surface0 }}",
+        "BRAND_260": "{{ rosewater }}",
+        "BRAND_360": "{{ green }}",
+        "BRAND_430": "#40a02b",
+        "BRAND_500": "{{ mauve }}",
+        "BRAND_560": "{{ overlay0 }}",
+        "GREEN_100": "{{ green }}",
+        "GREEN_130": "{{ green }}",
+        "GREEN_160": "{{ green }}",
+        "GREEN_200": "{{ green }}",
+        "GREEN_230": "{{ green }}",
+        "GREEN_260": "{{ green }}",
+        "GREEN_300": "{{ green }}",
+        "GREEN_330": "{{ green }}",
+        "GREEN_345": "{{ green }}",
+        "GREEN_360": "{{ green }}",
+        "GREEN_400": "{{ green }}",
+        "GREEN_430": "{{ green }}",
+        "GREEN_460": "{{ green }}",
+        "GREEN_500": "{{ green }}",
+        "GREEN_530": "{{ green }}",
+        "GREEN_560": "{{ green }}",
+        "GREEN_600": "{{ green }}",
+        "GREEN_630": "{{ green }}",
+        "GREEN_660": "{{ green }}",
+        "GREEN_700": "{{ green }}",
+        "GREEN_730": "{{ green }}",
+        "GREEN_760": "{{ green }}",
+        "GREEN_800": "{{ green }}",
+        "GREEN_830": "{{ green }}",
+        "GREEN_860": "{{ green }}",
+        "GREEN_900": "{{ green }}",
+        "GUILD_BOOSTING_PINK": "{{ pink }}",
+        "GUILD_BOOSTING_PURPLE": "{{ mauve }}",
+        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "{{ mauve }}",
+        "PLUM_1": "{{ text }}",
+        "PLUM_10": "{{ subtext1 }}",
+        "PLUM_11": "{{ surface0 }}",
+        "PLUM_13": "{{ subtext1 }}",
+        "PLUM_15": "{{ surface1 }}",
+        "PLUM_16": "{{ crust }}",
+        "PLUM_17": "{{ crust }}",
+        "PLUM_18": "{{ surface0 }}",
+        "PLUM_19": "{{ surface0 }}",
+        "PLUM_20": "{{ base }}",
+        "PLUM_21": "{{ blue }}50",
+        "PLUM_22": "{{ surface0 }}",
+        "PLUM_24": "{{ surface0 }}",
+        "PLUM_25": "{{ mantle }}",
+        "PLUM_3": "{{ text }}",
+        "PLUM_4": "{{ blue }}50",
+        "PLUM_6": "{{ mauve }}",
+        "PLUM_9": "{{ text }}",
+        "PRIMARY_100": "{{ text }}",
+        "PRIMARY_130": "{{ mantle }}",
+        "PRIMARY_300": "{{ base }}",
+        "PRIMARY_360": "{{ flamingo }}",
+        "PRIMARY_400": "{{ lavender }}",
+        "PRIMARY_460": "{{ mantle }}",
+        "PRIMARY_500": "{{ text }}",
+        "PRIMARY_600": "{{ base }}",
+        "PRIMARY_630": "{{ base }}",
+        "PRIMARY_645": "45475a",
+        "PRIMARY_660": "{{ crust }}",
+        "PRIMARY_700": "{{ crust }}",
+        "PRIMARY_800": "{{ mantle }}",
+        "RED_260": "{{ red }}",
+        "RED_300": "{{ red }}",
+        "RED_330": "{{ red }}",
+        "RED_345": "{{ red }}",
+        "RED_360": "{{ red }}",
+        "RED_400": "{{ peach }}",
+        "RED_430": "{{ red }}",
+        "RED_460": "{{ red }}",
+        "RED_500": "{{ red }}",
+        "RED_530": "{{ red }}",
+        "RED_560": "{{ red }}",
+        "RED_600": "{{ red }}",
+        "RED_630": "{{ red }}",
+        "RED_660": "{{ red }}",
+        "RED_700": "{{ red }}",
+        "WHITE_500": "{{ base }}",
+        "YELLOW_100": "{{ yellow }}",
+        "YELLOW_130": "{{ yellow }}",
+        "YELLOW_160": "{{ yellow }}",
+        "YELLOW_200": "{{ yellow }}",
+        "YELLOW_230": "{{ yellow }}",
+        "YELLOW_260": "{{ yellow }}",
+        "YELLOW_300": "{{ yellow }}",
+        "YELLOW_330": "{{ yellow }}",
+        "YELLOW_345": "{{ yellow }}",
+        "YELLOW_360": "{{ yellow }}",
+        "YELLOW_400": "{{ yellow }}",
+        "YELLOW_430": "{{ yellow }}",
+        "YELLOW_460": "{{ yellow }}",
+        "YELLOW_500": "{{ crust }}",
+        "YELLOW_530": "{{ yellow }}",
+        "YELLOW_560": "{{ yellow }}",
+        "YELLOW_600": "{{ yellow }}",
+        "YELLOW_630": "{{ yellow }}",
+        "YELLOW_660": "{{ yellow }}",
+        "YELLOW_700": "{{ yellow }}",
+        "YELLOW_730": "{{ yellow }}",
+        "YELLOW_760": "{{ yellow }}",
+        "YELLOW_800": "{{ yellow }}",
+        "YELLOW_830": "{{ yellow }}",
+        "YELLOW_860": "{{ yellow }}",
+        "YELLOW_900": "{{ yellow }}"
+    }
+}
