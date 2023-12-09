@@ -178,7 +178,7 @@
             "#{{ red }}"
         ],
         "TEXT_LINK": [
-            "#{{ green }}",
+            "#{{ lavender }}",
             "#{{ lavender }}"
         ],
         "TEXT_MUTED": [
