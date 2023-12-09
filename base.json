@@ -153,6 +153,12 @@
             "#{{ crust }}",
             "#{{ mantle }}"
         ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "{{ mantle }}"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "{{ mantle }}"
+        ],
         "SCROLLBAR_AUTO_THUMB": [
             "#{{ red }}",
             "#{{ yellow }}"
